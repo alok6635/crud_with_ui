@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "alok",
+      "place": "kanpur dehat",
+      "phone": "9696722622"
+    },
+    {
+      "id": "2",
+      "name": "aman",
+      "place": "lucknow",
+      "phone": "9196722622"
+    },
+    {
+      "id": "3",
+      "name": "akash",
+      "place": "agra",
+      "phone": "9296722622"
+    }
+  ]
+}
